@@ -4,8 +4,17 @@ body{
   font-size: 100%;
   background-color:#f1efeff1;
 }
+.skip-link{
+  display: inline-block;
+  background-color:#4f635a;
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 14px;
+  
 
- li{
+
+}
+li{
   display: inline-block;
   width: 30%;
   text-align: center;

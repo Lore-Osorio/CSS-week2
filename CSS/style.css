@@ -2,3 +2,48 @@ body{
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-size: 150%;
 }
+body{
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 100%;
+  background-color:#f1efeff1;
+}
+
+ li{
+  display: inline-block;
+  width: 30%;
+  text-align: center;
+  height: 100px;
+  background: #000000;
+  border-radius: 5%;
+  line-height: 100px;
+  color: #00e77c;
+  font-weight: bold;
+}
+li a:visited { color:#ffffff
+}
+
+img{
+  
+  margin: 0 auto;
+  background-color: #00e77c;
+  padding: 10px;
+}
+
+h1{
+  display:block;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #077222;
+}
+p{
+  background-color: aquamarine;
+  font-size: 100%;
+   line-height: 2;
+}
+
+footer p{
+  background: #474545;
+  text-align: center;
+  color:#ffffff;
+  font-size: small;
+  }

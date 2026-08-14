@@ -23,7 +23,7 @@ nav img{
 .grid{
   display: grid;
   grid-template-columns: 30% 30% 30%;
-  justify-content: centet;
+  justify-content: center;
   align-items: start;
   row-gap: 15px;
   column-gap: 12px;
